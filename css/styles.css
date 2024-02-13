@@ -1,0 +1,30 @@
+@charset "utf-8";
+body {
+    background-color: #F7E7C1; /*Setting backgroung color of webpage*/
+    color: #5E87B6;
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #F7E7C1;
+}
+nav.vertical {
+    background-color: #6B85BB;  /*Setting backgroung color of Vertical Navbar*/
+}
+
+
+nav.horizontal ul.row {
+    background-color: #1c1a75;  /*Setting backgroung color of Horizontal Navbar*/
+}
+nav.vertical a, nav.horizontal a {
+    color: white;   /*Setting text color Navbars*/
+    text-decoration: none;
+    font-weight: bold;
+}
+aside p{
+    color: black;
+}
+footer {
+    background-color: #3c5a9c; /*Setting backgroung color of Footer*/
+    color: white;  /*Setting text color of footer*/
+   
+}
